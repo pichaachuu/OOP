@@ -12,6 +12,7 @@ public class Mobil {
     }
 
     public void matikanMesin(){
+        kecepatan = 0;
         System.out.println("Mesin telah mati");
     }
 
