@@ -1,4 +1,4 @@
-package jobsheet04;
+package jobsheet04.praktikkum01;
 import java.time.LocalDate;
 public class Konsultasi {
     private LocalDate tanggal;

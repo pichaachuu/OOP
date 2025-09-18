@@ -1,4 +1,4 @@
-package jobsheet04;
+package jobsheet04.praktikkum01;
 import java.util.ArrayList;
 import java.time.LocalDate;
 public class Pasien {
@@ -40,7 +40,7 @@ public class Pasien {
         } else {
             info += "Belum ada riwayat konsultasi";
         }
-        
+
         info += "\n";
         return info;
     }
