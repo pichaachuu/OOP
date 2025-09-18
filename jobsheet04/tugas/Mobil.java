@@ -1,7 +1,5 @@
 package jobsheet04.tugas;
 
-import javax.management.monitor.StringMonitor;
-
 public class Mobil {
     private String platNomor;
     private String merk;
